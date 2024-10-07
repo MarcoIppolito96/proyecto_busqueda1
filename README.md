@@ -1,7 +1,6 @@
 # TP: Buscador de caminos
 Buscador de caminos en Python. 
 
-Consultar enunciado en el campus virtual de la materia.
 
 ## Algoritmos a implementar
 1. Depth First Search (DFS).
